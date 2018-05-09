@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+  Go to irb:
+
+  require 'ttt_chido'
+
+  game = TttChido::TicTacToe.new
+
+  game.start
 
 ## Development
 

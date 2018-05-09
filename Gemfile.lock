@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    ttt_chido (0.1.0)
+      colorize (~> 0.8.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    rake (10.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.16)
+  rake (~> 10.0)
+  ttt_chido!
+
+BUNDLED WITH
+   1.16.1
